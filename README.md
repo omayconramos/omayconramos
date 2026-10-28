@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Maycon Ramos 👋
 
-<!--
-**omayconramos/omayconramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer** · Front-End · Webflow · JavaScript · AI Workflows
 
-Here are some ideas to get you started:
+I build high-performance web platforms and digital experiences. Currently working as a Remote Web Developer at Angular E-commerce, connecting tech with growth for fitness and wellness businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-ramos-889746239)
+[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)](https://webflow.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+
+---
+
+🌟 Open source & Key Focus
+
+| Project / Skill | Focus | What it does |
+| :--- | :---: | :--- |
+| **Webflow Ecosystem** | 🚀 | Strategic landing pages, membership portals, and online scheduling. |
+| **AI Workflows** | 🤖 | Leveraging Google Antigravity & Claude for agentic coding & optimization. |
+| **Design Systems** | 🎨 | Modular templates built with Figma, Freepik Spaces, and visual AI tools. |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript, Webflow, WordPress
+- **AI & Automation:** Google Antigravity (Agentic IDE), Claude AI
+- **Workflow & Support:** ClickUp, Freshdesk, Figma, Freepik Spaces
